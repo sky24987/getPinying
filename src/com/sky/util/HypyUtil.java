@@ -1,4 +1,4 @@
-package com.tx.giss.util;
+package com.sky.util;
 
 /**
  * @author xiaoxh
